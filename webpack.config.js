@@ -1,6 +1,6 @@
 module.exports = {
     output: {
-        filename: 'main.js'
+        filename: 'imdc_cas_client.js'
     },
     resolve: {
         extensions: ['','.webpack.js','.ts','.tsx','.js']
