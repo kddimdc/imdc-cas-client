@@ -1,8 +1,6 @@
-# default
-default app setup.
-includes gulp, bootstrap and alertify.
+# imdc-cas-client
+simple Central Authentication Service client for IMDC static apps
+
 
 use:
-  - git clone http://github.com/kddimdc/default.git
-  - do npm install and tsd install
-  - type 'gulp'
+  - npm install imdc-cas-client
